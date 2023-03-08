@@ -1,0 +1,97 @@
+@font-face {
+  font-family: "Garnett-Black";
+  src: url("./garnett-font-family/Garnett-Black.woff") format("woff"), url("./garnett-font-family/Garnett-Black.ttf") format("ttf");
+  font-weight: 900;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Garnett-BlackItalic";
+  src: url("./garnett-font-family/Garnett-BlackItalic.woff") format("woff"), url("./garnett-font-family/Garnett-BlackItalic.ttf") format("ttf");
+  font-weight: 900;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Garnett-Bold";
+  src: url("./garnett-font-family/Garnett-Bold.woff") format("woff"), url("./garnett-font-family/Garnett-Bold.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Garnett-BoldItalic";
+  src: url("./garnett-font-family/Garnett-BoldItalic.woff") format("woff"), url("./garnett-font-family/Garnett-BoldItalic.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Garnett-Light";
+  src: url("./garnett-font-family/Garnett-Light.woff") format("woff"), url("./garnett-font-family/Garnett-Light.ttf") format("ttf");
+  font-display: swap;
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Garnett-LightItalic";
+  src: url("./garnett-font-family/Garnett-LightItalic.woff") format("woff"), url("./garnett-font-family/Garnett-LightItalic.ttf") format("ttf");
+  font-weight: 300;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Garnett-Medium";
+  src: url("./garnett-font-family/Garnett-Medium.woff") format("woff"), url("./garnett-font-family/Garnett-Medium.ttf") format("ttf");
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Garnett-MediumItalic";
+  src: url("./garnett-font-family/Garnett-MediumItalic.woff") format("woff"), url("./garnett-font-family/Garnett-MediumItalic.ttf") format("ttf");
+  font-weight: 500;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Garnett-Regular";
+  src: url("./garnett-font-family/Garnett-Regular.woff") format("woff"), url("./garnett-font-family/Garnett-Regular.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Garnett-RegularItalic";
+  src: url("./garnett-font-family/Garnett-RegularItalic.woff") format("woff"), url("./garnett-font-family/Garnett-RegularItalic.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Garnett-Semibold";
+  src: url("./garnett-font-family/Garnett-Semibold.woff") format("woff"), url("./garnett-font-family/Garnett-Semibold.ttf") format("ttf");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Garnett-SemiboldItalic";
+  src: url("./garnett-font-family/Garnett-SemiboldItalic.woff") format("woff"), url("./garnett-font-family/Garnett-SemiboldItalic.ttf") format("ttf");
+  font-weight: 700;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "PublicSansBlack";
+  src: url("./public-sans/PublicSans-Black.ttf");
+}
+@font-face {
+  font-family: "PublicSansBold";
+  src: url("./public-sans/PublicSans-Bold.ttf");
+}
+@font-face {
+  font-family: "PublicSansBoldItalic";
+  src: url("./public-sans/PublicSans-BoldItalic.ttf");
+}
+@font-face {
+  font-family: "PublicSanslight";
+  src: url("./public-sans/PublicSans-Light.ttf");
+}
+@font-face {
+  font-family: "PublicSansMedium";
+  src: url("./public-sans/PublicSans-Medium.ttf");
+}
+@font-face {
+  font-family: "PublicSansRegular";
+  src: url("./public-sans/PublicSans-Regular.ttf");
+}
